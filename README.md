@@ -1,4 +1,4 @@
-## Hey 👋,This is Ramadhani Al-Qadri
+## Hey 👋,This is Yan Saputra
 [![Gmail Badge](https://img.shields.io/badge/-yansaputra675@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:yansaputra675@gmail.com)](mailto:yansaputra675@gmail.com) [![Github Badge](https://img.shields.io/badge/-YnaStpra-grey?style=flat&logo=github&logoColor=white&link=https://github.com/YnaStpra/)](https://www.github.com/YnaStpra/) <p align='left'>Manusia biasa yang belajar ngoding</p>
 
 
