@@ -1,5 +1,6 @@
 ## Hey 👋,This is Yan Saputra
-[![Gmail Badge](https://img.shields.io/badge/-yansaputra675@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:yansaputra675@gmail.com)](mailto:yansaputra675@gmail.com) [![LinkedIn Badge](https://img.shields.io/badge/-YanSaputra-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sptrayan/)](https://www.linkedin.com/in/sptrayan/) <p align='left'>Manusia biasa yang belajar ngoding</p>
+[![Gmail Badge](https://img.shields.io/badge/-yansaputra675@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:yansaputra675@gmail.com)](mailto:yansaputra675@gmail.com)
+[![LinkedIn Badge](https://img.shields.io/badge/-YanSaputra-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sptrayan/)](https://www.linkedin.com/in/sptrayan/) <p align='left'>Manusia biasa yang belajar ngoding</p>
 
 
 ## Some of my Github Stats
