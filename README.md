@@ -29,7 +29,3 @@
 </div>
 
 ---
-
-<div align="center">
-  <sub>Yan Saputra</sub>
-</div>
