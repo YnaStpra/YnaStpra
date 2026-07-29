@@ -24,13 +24,12 @@
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=ynastpra&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Yan Saputra's GitHub Stats"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ynastpra&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages"/>
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ynastpra&theme=tokyonight" alt="GitHub Streak"/>
+<img src="https://ghstats.dev/api/card?username=ynastpra" alt="Yan Saputra's GitHub Stats" />
 
 </div>
 
 ---
+
+<div align="center">
+  <sub>Crafted by Yan Saputra</sub>
+</div>
