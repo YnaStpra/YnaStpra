@@ -24,12 +24,12 @@
 
 <div align="center">
 
-<img src="https://ghstats.dev/api/card?username=ynastpra" alt="Yan Saputra's GitHub Stats" />
+<img src="https://ghstats.dev/api/card?username=YnaStpra&theme=ayu" alt="GitHub Stats Card" />
 
 </div>
 
 ---
 
 <div align="center">
-  <sub>Crafted by Yan Saputra</sub>
+  <sub>Yan Saputra</sub>
 </div>
