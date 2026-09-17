@@ -1,12 +1,12 @@
 <div align="center">
 
-# 👋 Hi, I'm Yan Saputra
+# Hi, I'm Yan Saputra
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
