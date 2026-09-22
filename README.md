@@ -1,9 +1,3 @@
-<div align="center">
-
-# Hi, I'm Yan Saputra
-
-</div>
-
 ---
 
 ## GitHub Stats
